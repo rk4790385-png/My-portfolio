@@ -15,7 +15,7 @@ export default function Hero() {
         animate={{ opacity: 1 }}
         className="text-6xl font-bold mt-6"
       >
-        Raj
+        K Raj
       </motion.h1>
 
       <h2 className="text-2xl text-blue-400 mt-2">
